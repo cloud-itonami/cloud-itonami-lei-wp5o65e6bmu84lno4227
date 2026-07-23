@@ -43,5 +43,5 @@ Applicable Law: The interpretation and enforcement of these Terms of Use shall b
 " 1 :add]
  ["siriusxm-tos-1" :tos/source-url "https://www.siriusxm.com/sxm-web-terms-of-use" 1 :add]
  ["siriusxm-tos-1" :tos/retrieved-at "2026-07-10" 1 :add]
- ["siriusxm-tos-1" :tos/sha256 "d23ad8e38a1e91f284d2f98af11415a146a753ea034e863cddc1225168f22f94" 1 :add]
+ ["siriusxm-tos-1" :tos/sha256 "1bc1c60066bb8d5275304c467421f4cfa0e60005efca527f73a408e966be253b" 1 :add]
  ["siriusxm-tos-1" :tos/doc-type :terms-of-service 1 :add]]
